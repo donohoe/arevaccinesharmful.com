@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Are Vaccines Harmful?</title>
+    <link>http://arevaccinesharmful.com</link>
+    <language>en-us</language>
+    <description>Are Vaccines Harmful?</description>
+    <atom:link href="http://arevaccinesharmful.com/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>NO</title>
+        <description>NO</description>
+        <link>http://arevaccinesharmful.com</link>
+        <guid>http://arevaccinesharmful.com</guid>
+      </item>
+  </channel>
+</rss>
